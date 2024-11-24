@@ -2,8 +2,8 @@ from telethon import TelegramClient
 from telethon.tl.functions.channels import GetParticipantsRequest
 from telethon.tl.types import ChannelParticipantsSearch
 
-api_id = 28987401
-api_hash = 'c7f7da57708a435f8e031eab642de62d'
+api_id = *******
+api_hash = ***************
 phone = '+380985549076'
 client = TelegramClient('session', api_id, api_hash)
 
